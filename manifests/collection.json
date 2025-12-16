@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/manifests/manifest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/manifests/manifest",
+    "label" : "[Click to edit label]"
   } ]
 }
