@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 14,
+    "height" : 19
+  }, {
+    "width" : 27,
+    "height" : 37
+  }, {
+    "width" : 54,
+    "height" : 74
+  }, {
+    "width" : 107,
+    "height" : 147
+  }, {
+    "width" : 214,
+    "height" : 293
+  }, {
+    "width" : 428,
+    "height" : 585
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 428,
+  "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/6",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 585
+}
