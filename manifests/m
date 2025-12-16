@@ -1,0 +1,283 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/manifests/m",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://8302418c-62e8-4e7f-b33d-37936ee6a115",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://802878c4-401f-4d34-8d57-ef13f238415e",
+      "@type" : "sc:Canvas",
+      "label" : "3",
+      "height" : 551,
+      "width" : 415,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0a53fecd-9c39-4469-af9c-d6d70b3a4798",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 551,
+          "width" : 415
+        },
+        "on" : "http://802878c4-401f-4d34-8d57-ef13f238415e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://53c346e5-58b5-4d4d-a1a9-fe8e879d4f21",
+      "@type" : "sc:Canvas",
+      "label" : "1",
+      "height" : 531,
+      "width" : 424,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://75c60020-7c55-4202-bd64-29e5f632b6a8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 531,
+          "width" : 424
+        },
+        "on" : "http://53c346e5-58b5-4d4d-a1a9-fe8e879d4f21"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a00781a5-9e49-4ef1-ab29-5b9682e543e3",
+      "@type" : "sc:Canvas",
+      "label" : "4",
+      "height" : 581,
+      "width" : 391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://02630e66-1914-4a3a-849a-66f7089511dd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/4",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 581,
+          "width" : 391
+        },
+        "on" : "http://a00781a5-9e49-4ef1-ab29-5b9682e543e3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://54e7d573-9784-4aff-ba4a-d68cba3aa507",
+      "@type" : "sc:Canvas",
+      "label" : "2",
+      "height" : 603,
+      "width" : 425,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://421ea7c8-7978-45cd-970c-51e8492df600",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 603,
+          "width" : 425
+        },
+        "on" : "http://54e7d573-9784-4aff-ba4a-d68cba3aa507"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://be61608c-7fd5-49ac-a0e1-d43b8d45579a",
+      "@type" : "sc:Canvas",
+      "label" : "5",
+      "height" : 584,
+      "width" : 419,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://57021680-9327-49ab-97ac-2382e8e672ca",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/5",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 584,
+          "width" : 419
+        },
+        "on" : "http://be61608c-7fd5-49ac-a0e1-d43b8d45579a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://95f23793-5cdf-4e1e-92b8-36ab63765246",
+      "@type" : "sc:Canvas",
+      "label" : "6",
+      "height" : 585,
+      "width" : 428,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d0e5197b-184d-4a38-a262-8add4c956222",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 585,
+          "width" : 428
+        },
+        "on" : "http://95f23793-5cdf-4e1e-92b8-36ab63765246"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4840c6a0-a9fe-42dd-8b8e-43c8a3374e04",
+      "@type" : "sc:Canvas",
+      "label" : "7",
+      "height" : 616,
+      "width" : 427,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://89308f71-1b4a-4bc9-959e-cc57188088c4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/7",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 616,
+          "width" : 427
+        },
+        "on" : "http://4840c6a0-a9fe-42dd-8b8e-43c8a3374e04"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b3dd024b-5c85-4a5c-b31f-8a7f1e248bce",
+      "@type" : "sc:Canvas",
+      "label" : "8",
+      "height" : 590,
+      "width" : 424,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://abf1107e-9ea2-4a05-8a2e-e8d41bec1268",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/8",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 590,
+          "width" : 424
+        },
+        "on" : "http://b3dd024b-5c85-4a5c-b31f-8a7f1e248bce"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4ea48bca-bf33-486d-b614-969228374c62",
+      "@type" : "sc:Canvas",
+      "label" : "9",
+      "height" : 615,
+      "width" : 428,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://65f47867-f774-4415-ae1b-9a2b83024fb3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/9",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 615,
+          "width" : 428
+        },
+        "on" : "http://4ea48bca-bf33-486d-b614-969228374c62"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://83f023d1-ba2a-4065-b502-18a8d14363e1",
+      "@type" : "sc:Canvas",
+      "label" : "10",
+      "height" : 596,
+      "width" : 412,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8ddad8b4-e43a-405e-9ee1-b87c7acefcff",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/10/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/images/10",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 596,
+          "width" : 412
+        },
+        "on" : "http://83f023d1-ba2a-4065-b502-18a8d14363e1"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
