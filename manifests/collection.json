@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/manifests/tmdr",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mahshidkheiri93-spec.github.io/tmdr/manifests/mmmm",
+    "label" : "[Click to edit label]"
   } ]
 }
